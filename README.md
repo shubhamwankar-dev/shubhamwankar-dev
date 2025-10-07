@@ -1,17 +1,23 @@
-# 👋 Hi, I'm Shubham Wankar  
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Shubham Wankar" width="150" style="border-radius: 50%;" />
+</p>
 
-🎓 **Engineer | Frontend Developer | Tech Enthusiast**
+<h1 align="center">👋 Hi, I'm Shubham Wankar</h1>
 
-I'm a passionate **Frontend Developer** with a strong foundation in web technologies and a keen eye for clean design. I love building responsive, interactive, and user-friendly websites using modern tools and frameworks.
+<p align="center">
+  🎓 <b>Engineer | Frontend Developer | Tech Enthusiast</b><br>
+  <i>Turning ideas into interactive digital experiences</i>
+</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Graduated from **G.H. Raisoni College of Engineering**  
-- 💻 Love crafting beautiful, functional web interfaces  
+- 💻 Passionate about creating clean, responsive, and user-friendly web interfaces  
 - 🌱 Currently exploring **advanced JavaScript** and **frontend frameworks**  
-- ⚡ Always eager to learn new tools and technologies  
+- ⚡ Love solving problems and learning new technologies  
 
 ---
 
@@ -39,9 +45,9 @@ I'm a passionate **Frontend Developer** with a strong foundation in web technolo
 
 ## 📈 What I’m Working On
 
-- ✨ Building responsive and accessible web layouts using **Tailwind CSS**
-- ⚡ Experimenting with **JavaScript animations** and **scroll effects**
-- 🔧 Learning new frontend libraries to enhance interactivity  
+- ✨ Building responsive and accessible websites with **Tailwind CSS**
+- ⚡ Experimenting with **JavaScript animations and transitions**
+- 🔧 Enhancing UI/UX for better interactivity and performance
 
 ---
 
@@ -61,7 +67,7 @@ I'm a passionate **Frontend Developer** with a strong foundation in web technolo
 > _"Code is like humor. When you have to explain it, it’s bad."_  
 > — **Cory House**
 
-⭐ **Thanks for visiting my profile!** Feel free to check out my repositories and connect.
+⭐ **Thanks for visiting my profile!** Feel free to explore my repositories and connect.
 
 ---
 
