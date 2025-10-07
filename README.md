@@ -1,50 +1,67 @@
-# 👋 Hi, I'm Shubham Wankar
+# 👋 Hi, I'm Shubham Wankar  
 
 🎓 **Engineer | Frontend Developer | Tech Enthusiast**
 
-I'm a passionate **Frontend Developer** with a strong foundation in web technologies and a keen eye for detail. I love building responsive, user-friendly interfaces and turning creative ideas into interactive digital experiences.
+I'm a passionate **Frontend Developer** with a strong foundation in web technologies and a keen eye for clean design. I love building responsive, interactive, and user-friendly websites using modern tools and frameworks.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Graduated from **G.H. Raisoni College of Engineering**  
-- 💻 I enjoy working with modern web technologies and frameworks  
+- 💻 Love crafting beautiful, functional web interfaces  
 - 🌱 Currently exploring **advanced JavaScript** and **frontend frameworks**  
-- ⚡ Focused on writing clean, maintainable, and efficient code  
+- ⚡ Always eager to learn new tools and technologies  
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack  
 
-| Category | Technologies |
-|-----------|---------------|
-| **Frontend** | HTML5, CSS3, JavaScript (ES6) |
-| **CSS Frameworks** | Bootstrap 5, Tailwind CSS |
-| **Tools** | VS Code, Git, GitHub |
-| **Version Control** | Git & GitHub |
+### 🖥️ Frontend Development  
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+</p>
+
+### ⚙️ Tools & Version Control  
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+</p>
 
 ---
 
 ## 📈 What I’m Working On
-- Building responsive and accessible web pages using **Tailwind CSS**
-- Experimenting with **JavaScript animations and interactivity**
-- Contributing to open-source frontend projects
+
+- ✨ Building responsive and accessible web layouts using **Tailwind CSS**
+- ⚡ Experimenting with **JavaScript animations** and **scroll effects**
+- 🔧 Learning new frontend libraries to enhance interactivity  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me  
 
-- 💼 [LinkedIn](#) *www.linkedin.com/in/shubhamwankar-dev
-
-*  
-- 🌐 [Portfolio Website](#) *https://shubhamwankar-dev.netlify.app/*  
-- 📧 **Email:** shubhamwankar-dev@gmail.com  
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="mailto:yourname@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
 > _"Code is like humor. When you have to explain it, it’s bad."_  
-> — Cory House
+> — **Cory House**
 
-⭐ **Thanks for visiting my profile!** Feel free to check out my repositories and connect!
+⭐ **Thanks for visiting my profile!** Feel free to check out my repositories and connect.
+
+---
 
