@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Shubham Wankar" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/shubhamwankar-dev/shubhamwankar-dev/blob/main/Profile_Pic.jpeg" alt="Shubham Wankar" width="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Shubham Wankar</h1>
