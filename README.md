@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 40px 20px; border-radius: 16px; color: white;">
 
-  <img src="./profile.jpg" alt="Shubham Wankar" width="150" style="border-radius: 50%; border: 3px solid #00bcd4; box-shadow: 0 0 25px rgba(0,188,212,0.6);" />
+  <img src="[./profile.jpg](https://github.com/shubhamwankar-dev/shubhamwankar-dev/blob/main/Profile_Pic.jpeg)" alt="Shubham Wankar" width="150" style="border-radius: 50%; border: 3px solid #00bcd4; box-shadow: 0 0 25px rgba(0,188,212,0.6);" />
 
   <h1 style="font-size: 2.5rem; margin-top: 20px;">👋 Hey there, I'm <span style="color:#00e5ff;">Shubham Wankar</span></h1>
 
